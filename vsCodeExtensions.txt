@@ -1,0 +1,5 @@
+PHP Intelephense
+PHP Mess Detector
+PHP Debug
+phpfmt - PHP formatter
+php auto close tag
